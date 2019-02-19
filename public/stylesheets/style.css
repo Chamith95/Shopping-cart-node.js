@@ -1,0 +1,13 @@
+.card{
+    margin-top: 10px;
+    margin-left: -10px;
+    
+}
+.card img{
+    max-height: 300px
+}
+
+.card .price {
+    font-weight: bold;
+    font-size:16px;
+}
